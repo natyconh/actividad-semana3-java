@@ -22,9 +22,9 @@ Repositorio correspondiente a la actividad sumativa de la semana 3, donde se des
 
 | Día | Actividad |
 |-----|----------|
-| Día 1 | Desarrollo del código |
-| Día 2 | Compilación y pruebas |
-| Día 3 | Documentación e informe |
+| Fase 1 | Desarrollo del código |
+| Fase 2 | Compilación y pruebas |
+| Fase 3 | Documentación e informe |
 
 ## Archivos incluidos
 - ProgramaUsuario.java (código principal)
